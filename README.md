@@ -1,8 +1,8 @@
 # Active Together
 
-Fully functional iOS / Android App to enjoy (sports) activities together. The first version allows you to join sports leagues.
+Fully functional iOS / Android App to enjoy (sports) activities together. The first version allows you to join sports leagues and is used in Singapore by the Singapore Beach Tennis Club.
 
-App Store: https://apps.apple.com/us/app/active-together/id6462838154?platform=iphone  
+Apple App Store: https://apps.apple.com/us/app/active-together/id6462838154?platform=iphone  
 Google Play Store: https://play.google.com/store/apps/details?id=com.dotnet_works.active_together
 
 <p float="left" align="middle">
@@ -16,8 +16,6 @@ Google Play Store: https://play.google.com/store/apps/details?id=com.dotnet_work
   <img src="screenshots/5.png" width="32%">
   <img src="screenshots/6.png" width="32%">
 </p>
-
-Videos:
 
 <p float="left" align="middle">
   <img src="screenshots/active_together_1_dark.gif" width="48%">
