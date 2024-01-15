@@ -24,6 +24,10 @@ Google Play Store: https://play.google.com/store/apps/details?id=com.dotnet_work
 
 These App screenshots were made using Screenshots Pro (https://screenshots.pro/) and the videos using Rotato (https://rotato.app/).
 
+Privacy Policy:
+
+https://jbijlsma.github.io/active-together-league-promo/
+
 Features:
 
 - Join & leave sports leagues
